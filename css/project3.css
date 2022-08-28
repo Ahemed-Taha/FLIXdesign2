@@ -517,6 +517,7 @@ header .container i {
 
 .design .design-content ul li {
     padding: 15px 0;
+    width: 300px;
 }
 
 .design .design-content ul li::before {
